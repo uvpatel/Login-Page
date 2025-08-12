@@ -1,5 +1,4 @@
 Flask==3.0.3
-Werkzeug==3.0.3
 Flask-SQLAlchemy==3.1.1
-Flask-Login==0.6.3
-gunicorn
+Werkzeug==3.0.3
+gunicorn==23.0.0
